@@ -1,5 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Ved Prakash Bhaskar</h1>
+<h1 align="center">Frontend Enthusiast</h1>
  
 
 🌱 I’m currently learning **DSA and WebDev**
