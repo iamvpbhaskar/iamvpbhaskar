@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning **DSA and WebDev**
 
- 👨‍💻 my projects are available at [https://github.com/iamvpbhaskar/](https://github.com/iamvpbhaskar/)
+ 👨‍💻 my projects are available at [https://github.com/iamvpbhaskar?tab=repositories](https://github.com/iamvpbhaskar?tab=repositories)
 
  📝 I regularly write Tech articles on [https://technicalvedji.blogspot.com/](https://technicalvedji.blogspot.com/)
  
